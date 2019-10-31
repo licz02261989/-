@@ -1,0 +1,93 @@
+{
+  "id": "1444379",
+  "name": "yanxuan-1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "436672",
+      "name": "信号",
+      "font_class": "xinhao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "468179",
+      "name": "数码办公",
+      "font_class": "shumabangong",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "587318",
+      "name": "母婴",
+      "font_class": "muying",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "826948",
+      "name": "登录",
+      "font_class": "denglu-copy",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "1554188",
+      "name": "旅行箱",
+      "font_class": "lvhangxiang",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "2704020",
+      "name": "榜单",
+      "font_class": "bangdan",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "6138603",
+      "name": "礼物",
+      "font_class": "liwuhuodong",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "6424760",
+      "name": "酒",
+      "font_class": "jiu",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "7841652",
+      "name": "西装",
+      "font_class": "xizhuang",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "7917633",
+      "name": "礼物",
+      "font_class": "liwu",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "8558448",
+      "name": "洗衣机",
+      "font_class": "xiyiji",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "8895893",
+      "name": "毛巾",
+      "font_class": "maojin",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}

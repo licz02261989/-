@@ -1,0 +1,114 @@
+{
+  "id": "1421162",
+  "name": "yanxuan",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "356478",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "521966",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1187089",
+      "name": "保证",
+      "font_class": "01",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1816297",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "2116270",
+      "name": "购物车",
+      "font_class": "cart_icon",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "2167021",
+      "name": "保障",
+      "font_class": "baozhang",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "3786370",
+      "name": "快递",
+      "font_class": "kuaidi",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "4782757",
+      "name": "易信",
+      "font_class": "yixin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6401059",
+      "name": "购物车",
+      "font_class": "weibiaoti--",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "6561240",
+      "name": "咨询",
+      "font_class": "zixun",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "7533280",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "9278065",
+      "name": "客服",
+      "font_class": "icon_kefu",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "9283384",
+      "name": "网易",
+      "font_class": "wangyi",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "10068540",
+      "name": "三角下标（正方形）",
+      "font_class": "-arrow-up",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10799224",
+      "name": "考勤管理",
+      "font_class": "kaoqinguanli",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
